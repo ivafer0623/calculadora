@@ -1,2 +1,3 @@
 # calculadora
-se gurda calculadora
+se guarda calculadora
+el programam es de prueba 
